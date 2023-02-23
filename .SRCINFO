@@ -1,0 +1,25 @@
+pkgbase = sddm-kcm-git
+	pkgdesc = KDE Config Module for SDDM
+	pkgver = 5.27.80_r744.g0f6ca4b
+	pkgrel = 1
+	url = https://community.kde.org/Frameworks
+	arch = x86_64
+	license = GPL
+	makedepends = git
+	makedepends = clang
+	makedepends = extra-cmake-modules
+	makedepends = knewstuff
+	makedepends = kxmlgui
+	makedepends = kcoreaddons
+	makedepends = kauth
+	makedepends = kconfigwidgets
+	makedepends = kio
+	makedepends = karchive
+	makedepends = kdeclarative
+	depends = kcmutils
+	provides = sddm-kcm
+	conflicts = sddm-kcm
+	source = git+https://github.com/KDE/sddm-kcm.git
+	sha256sums = SKIP
+
+pkgname = sddm-kcm-git
