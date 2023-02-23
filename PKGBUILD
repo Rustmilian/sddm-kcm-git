@@ -1,6 +1,4 @@
-# Maintainer: Peter Mattern <pmattern at arcor dot de>
-# Contributor: Bhushan Shah
-# Contributor: Antonio Rojas
+# Maintainer: Rustmilian <######[@]######[.]me>
 
 pkgname=sddm-kcm-git
 pkgver=5.27.80_r744.g0f6ca4b
